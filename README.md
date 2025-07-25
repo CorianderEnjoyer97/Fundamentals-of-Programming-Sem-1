@@ -3,7 +3,7 @@ Write programs using appropriate control structures and algorithms for simple pr
 
 
 Question 1: 
-Write Python program that will present the hospital admin with a menu as follows:
+Write Python program that will present the hospital admin with a menu as follows: /n
 1 Add a patient’s name
 2 Remove a patient’s name, given its position
 3 Remove a patient’s name, given its value
